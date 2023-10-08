@@ -1,8 +1,33 @@
 {
   "name": "oyinjon-react-portfolio",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@fortawesome/free-brands-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.6.2",
+    "@mui/material": "^5.6.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^13.1.9",
+    "ajv": "^8.11.0",
+    "classnames": "^2.2.6",
+    "css-loader": "^6.8.1",
+    "moment": "^2.29.4",
+    "node-forge": ">=1.3.0",
+    "object-path": "^0.11.8",
+    "postcss": "^8.4.14",
+    "postcss-normalize": "^10.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "sass": "^1.54.5",
+    "sass-loader": "^13.3.2",
+    "typescript": "^4.7.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
@@ -11,40 +36,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/USOYJ/Oyinjon-react-portfolio.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/USOYJ/Oyinjon-react-portfolio/issues"
-  },
-  "homepage": "https://github.com/USOYJ/Oyinjon-react-portfolio#readme",
-  "@emotion/react": "^11.9.0",
-  "@emotion/styled": "^11.8.1",
-  "@fortawesome/free-brands-svg-icons": "^6.4.2",
-  "@fortawesome/react-fontawesome": "^0.2.0",
-  "@mui/icons-material": "^5.6.2",
-  "@mui/material": "^5.6.3",
-  "@testing-library/jest-dom": "^5.14.1",
-  "@testing-library/react": "^11.2.7",
-  "@testing-library/user-event": "^13.1.9",
-  "ajv": "^8.11.0",
-  "classnames": "^2.2.6",
-  "css-loader": "^6.8.1",
-  "moment": "^2.29.4",
-  "node-forge": ">=1.3.0",
-  "object-path": "^0.11.8",
-  "postcss": "^8.4.14",
-  "postcss-normalize": "^10.0.1",
-  "react": "^17.0.2",
-  "react-dom": "^17.0.2",
-  "react-router-dom": "^6.3.0",
-  "react-scripts": "^5.0.1",
-  "sass": "^1.54.5",
-  "sass-loader": "^13.3.2",
-  "typescript": "^4.7.4",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -61,8 +52,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.0.0"
+    "gh-pages": "^6.0.0",
+    "github-pages": "^3.0.2"
   }
 }
-
-
