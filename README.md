@@ -36,6 +36,14 @@
 
 
 ## Screenshots:
+<img width="1194" alt="Screenshot 2023-10-12 at 4 51 44 PM" src="https://github.com/USOYJ/oyinjon-react-portfolio/assets/125850331/2ef37496-dcb8-49d9-b2c8-d09650ff1351">
+<img width="1198" alt="Screenshot 2023-10-12 at 4 52 07 PM" src="https://github.com/USOYJ/oyinjon-react-portfolio/assets/125850331/fafb7b8a-999b-4a05-be88-5a0569889c84">
+<img width="1189" alt="Screenshot 2023-10-12 at 4 55 33 PM" src="https://github.com/USOYJ/oyinjon-react-portfolio/assets/125850331/1e554625-fc02-4aa9-9211-bb8e00a44beb">
+
+<img width="1192" alt="Screenshot 2023-10-12 at 4 57 01 PM" src="https://github.com/USOYJ/oyinjon-react-portfolio/assets/125850331/689868a3-8bce-498c-b17f-8bdf3809f9c4">
+
+
+
 
 
 
